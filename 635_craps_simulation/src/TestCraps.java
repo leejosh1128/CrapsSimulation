@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-// Josh's 1first git edit...
+// Josh's first git edit...
 
 
 /**
